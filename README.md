@@ -1,6 +1,4 @@
-# Outlier77 (CreatorIntel)
-
-### *For the Algorithm's Next Favourite*
+# Outlier77 - *For the Algorithm's Next Favourite*
 
 ---
 
